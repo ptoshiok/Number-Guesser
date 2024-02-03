@@ -1,0 +1,14 @@
+/home/paulotk/projects/NumberPicker/number/bin/Debug/net8.0/number
+/home/paulotk/projects/NumberPicker/number/bin/Debug/net8.0/number.deps.json
+/home/paulotk/projects/NumberPicker/number/bin/Debug/net8.0/number.runtimeconfig.json
+/home/paulotk/projects/NumberPicker/number/bin/Debug/net8.0/number.dll
+/home/paulotk/projects/NumberPicker/number/bin/Debug/net8.0/number.pdb
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/number.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/number.AssemblyInfoInputs.cache
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/number.AssemblyInfo.cs
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/number.csproj.CoreCompileInputs.cache
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/number.dll
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/refint/number.dll
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/number.pdb
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/number.genruntimeconfig.cache
+/home/paulotk/projects/NumberPicker/number/obj/Debug/net8.0/ref/number.dll
